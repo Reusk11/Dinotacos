@@ -1,0 +1,102 @@
+div#menu1{
+  background: #66CEE5;
+
+  width: 650px;
+  height: 70px;
+  margin:0px 0px 0px 100px ;
+}
+
+div#menu2{
+  background: #66CEE5;
+  width: 595px;
+  height: 70px;
+  margin:-70px 0px 0px 875px ;
+}
+div#letr1{
+  background: #6A6AC5 ;
+
+  width: 650px;
+  height: 90px;
+  margin:40px 0px 0px 100px ;
+
+}
+div#comida{
+  background: #6A6AC5 ;
+
+width: 650px;
+height: 655px;
+margin:40px 0px 0px 100px ;
+
+}
+
+div#letr2{
+  background: white;
+
+  width: 310px;
+  height: 120px;
+  margin:-818px 0px 0px 820px ;
+
+}
+div#bebidas{
+  background: #6A6AC5 ;
+
+width: 650px;
+height: 660px;
+margin:40px 0px 0px 820px ;
+-webkit-box-shadow: 25px 13px 22px 6px rgba(0,0,0,0.75);
+-moz-box-shadow: 25px 13px 22px 6px rgba(0,0,0,0.75);
+box-shadow: 25px 13px 22px 6px rgba(0,0,0,0.75);
+}
+div#refrescos{
+  background-color: white;
+  width: 260px;
+  height:173px;
+  margin:-460px 0px 0px 350px ;
+}
+div#postres{
+  background-color: white;
+  width: 217px;
+  height:200px;
+  margin:100px 0px 0px 350px ;
+}
+div#ofertones{
+  background: #6A6AC5;
+
+  width: 1370px;
+  height: 90px;
+  margin:30px 0px 0px 100px ;
+
+}
+div#of{
+  background: #6A6AC5;
+
+width: 1370px;
+height: 380px;
+margin:40px 0px 0px 100px ;
+
+}
+
+div#galeria{
+  background: #6A6AC5;
+
+  width: 1370px;
+  height: 90px;
+  margin:30px 0px 0px 0px ;
+
+}
+div#g{
+  background: #6A6AC5;
+
+width: 1370px;
+height: 1025px;
+margin:190px 0px 0px 100px ;
+
+}
+div#fin{
+  background: #6A6AC5;
+
+  width: 1370px;
+  height: 90px;
+  margin:30px 0px 0px 100px ;
+
+}
